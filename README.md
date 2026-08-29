@@ -1,21 +1,33 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B8FA3&center=true&vCenter=true&width=460&lines=%E2%9F%A1+build.+break.+learn.+improve.+repeat.+%E2%9F%A1;%2A+.+%CB%9A+%E2%9C%A6+.+%2A" /> </p>
+<p align="center">
+  <img src="banner.svg" alt="Valentins Jermakovs" width="100%" />
+</p>
 
-# 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8B8FA3&center=true&vCenter=true&width=480&lines=build.+break.+learn.+improve.+repeat.;systems+%7C+infrastructure+%7C+local+AI" />
+</p>
 
-Developer who enjoys building things and figuring out how they work.
-
-- 🧠 Interested in software architecture & backend development
-- 🛠️ Experimenting with different technologies and self-hosted infrastructure
-- 🗄️ Curious about databases & data modeling
-- 🤖 Working with local AI models (self-hosted LLMs, running inference on my own hardware)
-- 🚀 Building projects to learn by doing
-- 🔍 Always exploring better ways to solve problems
-
-**Build. Break. Learn. Improve. Repeat.** ⚡
+<p align="center">
+  <sub><i>"Somewhere, something incredible is waiting to be known." — Carl Sagan</i></sub>
+</p>
 
 ---
 
-# 💻 Tech Stack
+# About Me
+
+Developer who enjoys building things and figuring out how they work.
+
+- Interested in software architecture & backend development
+- Experimenting with different technologies and self-hosted infrastructure
+- Curious about databases & data modeling
+- Working with local AI models (self-hosted LLMs, running inference on my own hardware)
+- Building projects to learn by doing
+- Always exploring better ways to solve problems
+
+**Build. Break. Learn. Improve. Repeat.**
+
+---
+
+# Tech Stack
 
 **Languages**
 
@@ -35,28 +47,33 @@ Developer who enjoys building things and figuring out how they work.
 
 **Tools & Environment**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
-# 🖥️ Self-Hosting & Local AI
+# Self-Hosting & Local AI
 
 Running my own infrastructure at home, including local LLM inference and self-managed storage/services.
 
-- 🧩 **OpenMediaVault** — home server & NAS management
-- 🤖 **Local LLMs** — running and experimenting with self-hosted AI models
-- 🐧 **Ubuntu** — primary OS for development and server environments
+- **OpenMediaVault** — home server & NAS management
+- **Local LLMs** — running and experimenting with self-hosted AI models
+- **Ubuntu / Fedora** — primary OS environments for development and server workloads
 
 ---
 
-# 🌌 Beyond Code
+# Beyond Code
 
 Astronomy, sci-fi, and a long-standing appreciation for ThinkPads.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Valentins-Jermakovs&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Valentins-Jermakovs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8FA3&icon_color=a29bfe&text_color=c9c9d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentins-Jermakovs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8FA3&text_color=c9c9d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Valentins-Jermakovs&theme=tokyonight&hide_border=true&background=0d1117&ring=8B8FA3&fire=a29bfe&currStreakLabel=8B8FA3" />
 </p>
