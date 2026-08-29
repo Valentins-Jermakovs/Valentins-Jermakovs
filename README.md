@@ -66,14 +66,3 @@ Running my own infrastructure at home, including local LLM inference and self-ma
 Astronomy, sci-fi, and a long-standing appreciation for ThinkPads.
 
 ---
-
-# GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Valentins-Jermakovs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8FA3&icon_color=a29bfe&text_color=c9c9d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentins-Jermakovs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8FA3&text_color=c9c9d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Valentins-Jermakovs&theme=tokyonight&hide_border=true&background=0d1117&ring=8B8FA3&fire=a29bfe&currStreakLabel=8B8FA3" />
-</p>
