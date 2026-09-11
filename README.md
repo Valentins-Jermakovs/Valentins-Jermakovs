@@ -47,7 +47,7 @@ Developer who enjoys building things and figuring out how they work.
 
 **Tools & Environment**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
@@ -57,7 +57,7 @@ Running my own infrastructure at home, including local LLM inference and self-ma
 
 - **OpenMediaVault** — home server & NAS management
 - **Local LLMs** — running and experimenting with self-hosted AI models
-- **Ubuntu / Fedora** — primary OS environments for development and server workloads
+- **Ubuntu — primary OS environments for development and server workloads
 
 ---
 
