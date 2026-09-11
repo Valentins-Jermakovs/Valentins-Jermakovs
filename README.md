@@ -57,7 +57,7 @@ Running my own infrastructure at home, including local LLM inference and self-ma
 
 - **OpenMediaVault** — home server & NAS management
 - **Local LLMs** — running and experimenting with self-hosted AI models
-- **Ubuntu — primary OS environments for development and server workloads
+- **Ubuntu** — primary OS environments for development and server workloads
 
 ---
 
