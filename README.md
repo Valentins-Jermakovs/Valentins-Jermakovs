@@ -12,16 +12,6 @@ Self-taught developer. I build backend systems and APIs, and I run them on infra
 - Secure access with JWT and role-based access control (RBAC).
 - Run language models locally.
 
-## Technology
-
-| Area | Tools |
-| :--- | :--- |
-| Languages | Python, JavaScript |
-| Framework | FastAPI |
-| Data | PostgreSQL, Redis |
-| Infrastructure | Linux, Docker, self-hosted services |
-| Security | JWT, RBAC |
-| AI | Local LLMs |
 
 ## Interests
 
