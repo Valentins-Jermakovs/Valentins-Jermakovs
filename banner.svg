@@ -1,215 +1,88 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0b16"/>
-      <stop offset="45%" stop-color="#171834"/>
-      <stop offset="100%" stop-color="#232152"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="82%" cy="35%" r="55%">
-      <stop offset="0%" stop-color="#4b3f8f" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#4b3f8f" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8B8FA3" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#8B8FA3" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#8B8FA3" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <rect width="1200" height="280" fill="url(#glow)"/>
-
-  <!-- stars -->
-  <circle cx="388.6" cy="42.2" r="1.4" fill="#E6E6F0" opacity="0.28"/>
-    <circle cx="985.5" cy="26.4" r="1.2" fill="#E6E6F0" opacity="0.29"/>
-    <circle cx="608.9" cy="10.5" r="1" fill="#E6E6F0" opacity="0.54"/>
-    <circle cx="288.8" cy="154.3" r="0.6" fill="#E6E6F0" opacity="0.83"/>
-    <circle cx="148.6" cy="62.5" r="1.4" fill="#E6E6F0" opacity="0.66"/>
-    <circle cx="74.2" cy="164.0" r="0.6" fill="#E6E6F0" opacity="0.93"/>
-    <circle cx="55.9" cy="240.4" r="1" fill="#E6E6F0" opacity="0.54"/>
-    <circle cx="648.8" cy="159.9" r="1.2" fill="#E6E6F0" opacity="0.82"/>
-    <circle cx="216.9" cy="162.8" r="1.4" fill="#E6E6F0" opacity="0.38"/>
-    <circle cx="116.9" cy="199.4" r="1.2" fill="#E6E6F0" opacity="0.29"/>
-    <circle cx="247.2" cy="190.5" r="1" fill="#E6E6F0" opacity="0.79"/>
-    <circle cx="558.7" cy="258.6" r="1" fill="#E6E6F0" opacity="0.46"/>
-    <circle cx="953.3" cy="195.7" r="0.8" fill="#E6E6F0" opacity="0.31"/>
-    <circle cx="360.3" cy="138.6" r="1" fill="#E6E6F0" opacity="0.76"/>
-    <circle cx="345.5" cy="274.4" r="0.6" fill="#E6E6F0" opacity="0.61"/>
-    <circle cx="198.0" cy="95.8" r="1" fill="#E6E6F0" opacity="0.55"/>
-    <circle cx="1154.4" cy="21.7" r="1.2" fill="#E6E6F0" opacity="0.65"/>
-    <circle cx="1050.6" cy="87.8" r="1.4" fill="#E6E6F0" opacity="0.50"/>
-    <circle cx="596.0" cy="223.1" r="0.6" fill="#E6E6F0" opacity="0.84"/>
-    <circle cx="1133.6" cy="132.7" r="1.4" fill="#E6E6F0" opacity="0.30"/>
-    <circle cx="877.4" cy="86.7" r="1.2" fill="#E6E6F0" opacity="0.95"/>
-    <circle cx="986.3" cy="79.7" r="1" fill="#E6E6F0" opacity="0.87"/>
-    <circle cx="416.4" cy="263.4" r="1" fill="#E6E6F0" opacity="0.37"/>
-    <circle cx="140.5" cy="16.5" r="1" fill="#E6E6F0" opacity="0.34"/>
-    <circle cx="297.1" cy="109.5" r="1" fill="#E6E6F0" opacity="0.31"/>
-    <circle cx="539.0" cy="153.8" r="0.8" fill="#E6E6F0" opacity="0.82"/>
-    <circle cx="1036.8" cy="78.0" r="1" fill="#E6E6F0" opacity="0.94"/>
-    <circle cx="819.3" cy="106.5" r="0.8" fill="#E6E6F0" opacity="0.36"/>
-    <circle cx="211.5" cy="64.9" r="0.8" fill="#E6E6F0" opacity="0.26"/>
-    <circle cx="997.3" cy="51.1" r="1" fill="#E6E6F0" opacity="0.25"/>
-    <circle cx="502.7" cy="103.4" r="1.2" fill="#E6E6F0" opacity="0.47"/>
-    <circle cx="150.6" cy="240.6" r="1.2" fill="#E6E6F0" opacity="0.71"/>
-    <circle cx="887.7" cy="127.9" r="1.4" fill="#E6E6F0" opacity="0.81"/>
-    <circle cx="470.9" cy="111.7" r="0.6" fill="#E6E6F0" opacity="0.59"/>
-    <circle cx="480.5" cy="53.4" r="0.8" fill="#E6E6F0" opacity="0.56"/>
-    <circle cx="131.9" cy="168.2" r="0.6" fill="#E6E6F0" opacity="0.25"/>
-    <circle cx="181.5" cy="28.4" r="1" fill="#E6E6F0" opacity="0.68"/>
-    <circle cx="84.4" cy="58.2" r="1" fill="#E6E6F0" opacity="0.35"/>
-    <circle cx="302.7" cy="97.3" r="1" fill="#E6E6F0" opacity="0.58"/>
-    <circle cx="138.4" cy="136.7" r="1" fill="#E6E6F0" opacity="0.59"/>
-    <circle cx="374.2" cy="40.4" r="1.4" fill="#E6E6F0" opacity="0.49"/>
-    <circle cx="317.7" cy="232.1" r="0.8" fill="#E6E6F0" opacity="0.61"/>
-    <circle cx="246.3" cy="266.6" r="1" fill="#E6E6F0" opacity="0.35"/>
-    <circle cx="651.8" cy="7.6" r="1.2" fill="#E6E6F0" opacity="0.46"/>
-    <circle cx="771.5" cy="25.5" r="1" fill="#E6E6F0" opacity="0.61"/>
-    <circle cx="1089.9" cy="99.6" r="0.8" fill="#E6E6F0" opacity="0.62"/>
-    <circle cx="934.9" cy="92.3" r="0.8" fill="#E6E6F0" opacity="0.68"/>
-    <circle cx="946.1" cy="212.3" r="0.8" fill="#E6E6F0" opacity="0.81"/>
-    <circle cx="982.0" cy="207.2" r="0.8" fill="#E6E6F0" opacity="0.39"/>
-    <circle cx="591.3" cy="204.7" r="0.6" fill="#E6E6F0" opacity="0.80"/>
-    <circle cx="566.7" cy="54.2" r="1.2" fill="#E6E6F0" opacity="0.92"/>
-    <circle cx="536.7" cy="262.4" r="1" fill="#E6E6F0" opacity="0.92"/>
-    <circle cx="437.6" cy="61.7" r="0.8" fill="#E6E6F0" opacity="0.58"/>
-    <circle cx="405.3" cy="135.1" r="1.2" fill="#E6E6F0" opacity="0.84"/>
-    <circle cx="575.4" cy="182.8" r="1.4" fill="#E6E6F0" opacity="0.31"/>
-    <circle cx="792.7" cy="254.7" r="1.4" fill="#E6E6F0" opacity="0.78"/>
-    <circle cx="573.6" cy="50.0" r="1.4" fill="#E6E6F0" opacity="0.48"/>
-    <circle cx="961.0" cy="272.1" r="1" fill="#E6E6F0" opacity="0.57"/>
-    <circle cx="892.0" cy="23.8" r="0.8" fill="#E6E6F0" opacity="0.37"/>
-    <circle cx="152.4" cy="42.3" r="1" fill="#E6E6F0" opacity="0.81"/>
-    <circle cx="175.4" cy="231.4" r="1" fill="#E6E6F0" opacity="0.71"/>
-    <circle cx="420.5" cy="153.6" r="0.8" fill="#E6E6F0" opacity="0.26"/>
-    <circle cx="959.2" cy="203.4" r="0.6" fill="#E6E6F0" opacity="0.62"/>
-    <circle cx="1120.3" cy="121.5" r="0.8" fill="#E6E6F0" opacity="0.83"/>
-    <circle cx="253.3" cy="70.5" r="1" fill="#E6E6F0" opacity="0.60"/>
-    <circle cx="916.4" cy="91.3" r="1.2" fill="#E6E6F0" opacity="0.54"/>
-    <circle cx="157.3" cy="254.8" r="1" fill="#E6E6F0" opacity="0.88"/>
-    <circle cx="795.0" cy="228.2" r="1.2" fill="#E6E6F0" opacity="0.54"/>
-    <circle cx="1101.3" cy="140.5" r="1.2" fill="#E6E6F0" opacity="0.36"/>
-    <circle cx="612.7" cy="244.4" r="0.8" fill="#E6E6F0" opacity="0.68"/>
-    <circle cx="931.2" cy="41.9" r="0.8" fill="#E6E6F0" opacity="0.58"/>
-    <circle cx="870.2" cy="155.8" r="1" fill="#E6E6F0" opacity="0.73"/>
-    <circle cx="636.9" cy="135.1" r="0.6" fill="#E6E6F0" opacity="0.87"/>
-    <circle cx="68.2" cy="53.6" r="0.6" fill="#E6E6F0" opacity="0.79"/>
-    <circle cx="609.3" cy="157.3" r="0.6" fill="#E6E6F0" opacity="0.56"/>
-    <circle cx="735.0" cy="141.6" r="1.2" fill="#E6E6F0" opacity="0.39"/>
-    <circle cx="332.6" cy="142.3" r="1" fill="#E6E6F0" opacity="0.61"/>
-    <circle cx="297.2" cy="146.5" r="1" fill="#E6E6F0" opacity="0.90"/>
-    <circle cx="1071.3" cy="56.7" r="1" fill="#E6E6F0" opacity="0.35"/>
-    <circle cx="145.9" cy="123.8" r="0.6" fill="#E6E6F0" opacity="0.72"/>
-    <circle cx="514.0" cy="59.6" r="1" fill="#E6E6F0" opacity="0.80"/>
-    <circle cx="1076.4" cy="43.2" r="1.4" fill="#E6E6F0" opacity="0.70"/>
-    <circle cx="439.4" cy="70.9" r="0.8" fill="#E6E6F0" opacity="0.93"/>
-    <circle cx="263.5" cy="266.7" r="1" fill="#E6E6F0" opacity="0.87"/>
-    <circle cx="195.4" cy="187.0" r="0.8" fill="#E6E6F0" opacity="0.36"/>
-    <circle cx="517.8" cy="144.4" r="1" fill="#E6E6F0" opacity="0.54"/>
-    <circle cx="427.9" cy="25.8" r="1" fill="#E6E6F0" opacity="0.26"/>
-    <circle cx="664.9" cy="123.3" r="0.6" fill="#E6E6F0" opacity="0.52"/>
-    <circle cx="620.9" cy="82.7" r="0.6" fill="#E6E6F0" opacity="0.33"/>
-    <circle cx="1102.3" cy="64.0" r="0.6" fill="#E6E6F0" opacity="0.31"/>
-    <circle cx="326.3" cy="253.7" r="0.8" fill="#E6E6F0" opacity="0.44"/>
-    <circle cx="155.5" cy="118.2" r="1.4" fill="#E6E6F0" opacity="0.82"/>
-    <circle cx="310.3" cy="41.8" r="1.2" fill="#E6E6F0" opacity="0.65"/>
-    <circle cx="840.5" cy="25.0" r="0.6" fill="#E6E6F0" opacity="0.81"/>
-    <circle cx="220.0" cy="250.7" r="1" fill="#E6E6F0" opacity="0.91"/>
-    <circle cx="761.3" cy="224.5" r="0.6" fill="#E6E6F0" opacity="0.68"/>
-    <circle cx="266.9" cy="74.0" r="0.6" fill="#E6E6F0" opacity="0.57"/>
-    <circle cx="407.0" cy="154.9" r="1" fill="#E6E6F0" opacity="0.69"/>
-    <circle cx="51.8" cy="198.7" r="0.6" fill="#E6E6F0" opacity="0.93"/>
-    <circle cx="314.3" cy="50.7" r="1" fill="#E6E6F0" opacity="0.69"/>
-    <circle cx="637.3" cy="57.6" r="1" fill="#E6E6F0" opacity="0.60"/>
-    <circle cx="213.5" cy="97.2" r="0.6" fill="#E6E6F0" opacity="0.95"/>
-    <circle cx="44.3" cy="5.2" r="1.2" fill="#E6E6F0" opacity="0.64"/>
-    <circle cx="227.3" cy="132.9" r="1" fill="#E6E6F0" opacity="0.32"/>
-    <circle cx="982.7" cy="121.0" r="1" fill="#E6E6F0" opacity="0.63"/>
-    <circle cx="1066.5" cy="271.7" r="1" fill="#E6E6F0" opacity="0.73"/>
-    <circle cx="1178.9" cy="96.0" r="1.4" fill="#E6E6F0" opacity="0.76"/>
-    <circle cx="167.7" cy="277.0" r="0.6" fill="#E6E6F0" opacity="0.84"/>
-    <circle cx="17.1" cy="175.1" r="1" fill="#E6E6F0" opacity="0.55"/>
-    <circle cx="66.5" cy="186.3" r="1" fill="#E6E6F0" opacity="0.86"/>
-    <circle cx="804.7" cy="78.9" r="0.8" fill="#E6E6F0" opacity="0.73"/>
-    <circle cx="54.3" cy="51.9" r="1" fill="#E6E6F0" opacity="0.56"/>
-    <circle cx="315.9" cy="269.3" r="1.2" fill="#E6E6F0" opacity="0.48"/>
-    <circle cx="41.3" cy="247.1" r="0.8" fill="#E6E6F0" opacity="0.50"/>
-    <circle cx="1.3" cy="106.9" r="1" fill="#E6E6F0" opacity="0.45"/>
-    <circle cx="787.2" cy="69.5" r="0.6" fill="#E6E6F0" opacity="0.31"/>
-    <circle cx="980.5" cy="40.3" r="1.2" fill="#E6E6F0" opacity="0.28"/>
-    <circle cx="27.0" cy="85.2" r="0.8" fill="#E6E6F0" opacity="0.31"/>
-    <circle cx="1149.2" cy="238.9" r="0.8" fill="#E6E6F0" opacity="0.71"/>
-    <circle cx="859.2" cy="246.1" r="1" fill="#E6E6F0" opacity="0.79"/>
-    <circle cx="864.8" cy="138.4" r="1" fill="#E6E6F0" opacity="0.76"/>
-    <circle cx="771.9" cy="12.3" r="1.4" fill="#E6E6F0" opacity="0.87"/>
-    <circle cx="752.8" cy="205.5" r="1.2" fill="#E6E6F0" opacity="0.35"/>
-    <circle cx="628.5" cy="141.2" r="0.6" fill="#E6E6F0" opacity="0.83"/>
-    <circle cx="700.9" cy="250.0" r="1.4" fill="#E6E6F0" opacity="0.92"/>
-    <circle cx="771.5" cy="23.8" r="0.6" fill="#E6E6F0" opacity="0.34"/>
-    <circle cx="432.8" cy="29.4" r="1" fill="#E6E6F0" opacity="0.64"/>
-    <circle cx="753.3" cy="175.3" r="1.4" fill="#E6E6F0" opacity="0.42"/>
-    <circle cx="316.6" cy="127.9" r="0.6" fill="#E6E6F0" opacity="0.77"/>
-    <circle cx="603.6" cy="149.9" r="1.4" fill="#E6E6F0" opacity="0.62"/>
-    <circle cx="894.9" cy="132.7" r="0.6" fill="#E6E6F0" opacity="0.84"/>
-    <circle cx="281.7" cy="211.8" r="0.8" fill="#E6E6F0" opacity="0.77"/>
-    <circle cx="1170.9" cy="138.3" r="1" fill="#E6E6F0" opacity="0.30"/>
-    <circle cx="1092.6" cy="80.4" r="0.6" fill="#E6E6F0" opacity="0.68"/>
-    <circle cx="771.3" cy="21.7" r="0.8" fill="#E6E6F0" opacity="0.48"/>
-    <circle cx="781.8" cy="194.0" r="1.2" fill="#E6E6F0" opacity="0.65"/>
-    <circle cx="15.0" cy="17.0" r="1" fill="#E6E6F0" opacity="0.93"/>
-    <circle cx="119.4" cy="61.0" r="1" fill="#E6E6F0" opacity="0.45"/>
-    <circle cx="619.8" cy="130.1" r="1" fill="#E6E6F0" opacity="0.79"/>
-    <circle cx="1192.0" cy="153.7" r="1" fill="#E6E6F0" opacity="0.93"/>
-  
-    <g opacity="0.83">
-      <line x1="1084.6869202222351" y1="24.201069395999077" x2="1092.5228035140894" y2="24.201069395999077" stroke="#C9C9E8" stroke-width="0.6"/>
-      <line x1="1088.6048618681623" y1="20.283127750071884" x2="1088.6048618681623" y2="28.11901104192627" stroke="#C9C9E8" stroke-width="0.6"/>
-      <circle cx="1088.6048618681623" cy="24.201069395999077" r="1.3" fill="#F2F2FA"/>
-    </g>
-
-    <g opacity="0.58">
-      <line x1="1120.7439273684365" y1="127.86823271626285" x2="1127.8185563291306" y2="127.86823271626285" stroke="#C9C9E8" stroke-width="0.6"/>
-      <line x1="1124.2812418487836" y1="124.33091823591569" x2="1124.2812418487836" y2="131.40554719661" stroke="#C9C9E8" stroke-width="0.6"/>
-      <circle cx="1124.2812418487836" cy="127.86823271626285" r="1.3" fill="#F2F2FA"/>
-    </g>
-
-    <g opacity="0.56">
-      <line x1="1094.8948053868098" y1="70.57011140813742" x2="1103.220694857694" y2="70.57011140813742" stroke="#C9C9E8" stroke-width="0.6"/>
-      <line x1="1099.057750122252" y1="66.40716667269527" x2="1099.057750122252" y2="74.73305614357957" stroke="#C9C9E8" stroke-width="0.6"/>
-      <circle cx="1099.057750122252" cy="70.57011140813742" r="1.3" fill="#F2F2FA"/>
-    </g>
-
-    <g opacity="0.83">
-      <line x1="623.688387915636" y1="248.65768079677864" x2="630.21880820716" y2="248.65768079677864" stroke="#C9C9E8" stroke-width="0.6"/>
-      <line x1="626.953598061398" y1="245.3924706510166" x2="626.953598061398" y2="251.92289094254068" stroke="#C9C9E8" stroke-width="0.6"/>
-      <circle cx="626.953598061398" cy="248.65768079677864" r="1.3" fill="#F2F2FA"/>
-    </g>
-
-    <g opacity="0.59">
-      <line x1="605.3870020090465" y1="232.84691830756228" x2="614.2003501642228" y2="232.84691830756228" stroke="#C9C9E8" stroke-width="0.6"/>
-      <line x1="609.7936760866346" y1="228.44024422997413" x2="609.7936760866346" y2="237.25359238515043" stroke="#C9C9E8" stroke-width="0.6"/>
-      <circle cx="609.7936760866346" cy="232.84691830756228" r="1.3" fill="#F2F2FA"/>
-    </g>
-
-    <g opacity="0.50">
-      <line x1="1042.3807102662663" y1="136.67375754251572" x2="1048.4800478786287" y2="136.67375754251572" stroke="#C9C9E8" stroke-width="0.6"/>
-      <line x1="1045.4303790724475" y1="133.6240887363344" x2="1045.4303790724475" y2="139.72342634869705" stroke="#C9C9E8" stroke-width="0.6"/>
-      <circle cx="1045.4303790724475" cy="136.67375754251572" r="1.3" fill="#F2F2FA"/>
-    </g>
-
-  <!-- orbit motif, right side -->
-  <g transform="translate(1000,140)" opacity="0.9">
-    <ellipse cx="0" cy="0" rx="150" ry="52" fill="none" stroke="#6E6FA0" stroke-width="1" opacity="0.55" transform="rotate(-18)"/>
-    <ellipse cx="0" cy="0" rx="105" ry="36" fill="none" stroke="#6E6FA0" stroke-width="1" opacity="0.4" transform="rotate(-18)"/>
-    <circle cx="0" cy="0" r="17" fill="#2c2a52" stroke="#8B8FA3" stroke-width="1.2"/>
-    <circle cx="0" cy="0" r="17" fill="url(#glow)"/>
-    <circle cx="112" cy="-45" r="3.2" fill="#C9C9E8" transform="rotate(-18)"/>
-  </g>
-
-  <!-- divider line -->
-  <rect x="120" y="196" width="360" height="1.4" fill="url(#ring)"/>
-
-  <!-- text -->
-  <text x="120" y="140" font-family="'Fira Code','Courier New',monospace" font-size="42" font-weight="600" letter-spacing="3" fill="#EDEDF6">VALENTINS JERMAKOVS</text>
-  <text x="120" y="178" font-family="'Fira Code','Courier New',monospace" font-size="16" letter-spacing="4" fill="#9A9DB8">SOFTWARE ENGINEER  //  SYSTEMS &amp; INFRASTRUCTURE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1200" viewBox="0 0 2400 1200" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmMWNhNDRlNS00ZmNlLTRlZjUtODM3Ny0zYTc0YTYwMjQ0ODQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaG/ab1YXf43LFjpen/XnnqMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0OWViYzdkNC0xOTk2LTRkYTktOTQyMi1jODM1MGNlZWQzYzRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoyEkA2yUwDGutUxoRDvs/JAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg7wOc7fYk10Pe+DcNe3Aa6lzCHEW7DjJUXwV9LZybVhakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIPuuJAJSXJYYPElKD7UaBgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAnwUsF0mAe8ZzZQULdF5MgA+JYGQlgPcOErmAgkBwMPWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi7Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmYxY2E0NGU1LTRmY2UtNGVmNS04Mzc3LTNhNzRhNjAyNDQ4NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNhZTc0OGUyLTVmYzYtNDkwZC1hZDNmLTMxMzU2ZGQ0ZTY1YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDvA5zt9iTXQ974Nw17cBrqXMIcRbsOMlRfBX0tnJtWFqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggK2Jpg+ArgYAHqRLXCrEuYtDTOMeq2BAZBMxNxVmDoK+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggi2ZFkkis7Vl6tgGuUp7OHS4xVyKTMvSArb6AuLcMYUh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQE2upQ75A0EqH7e6RvSAb7v9lxr9B+dDnMI3ZfLPm2KtnhSO9NOHqXJllbdvk6NKQ82kmhKKPBwRWrQrI1ats8w=</c2pa:manifest></metadata><title id="t">Valentins Jermakovs, backend developer</title><desc id="d">Terminal card with profile summary and technology tiles: Python, JavaScript, FastAPI, PostgreSQL, Redis, Linux, Docker, JWT, RBAC and local LLMs.</desc>
+<defs><pattern id="g" width="120" height="120" patternUnits="userSpaceOnUse"><path d="M120 0H0V120" fill="none" stroke="#1c1c1c" stroke-width="2"/></pattern></defs>
+<rect width="2400" height="1200" fill="#161616"/><rect width="2400" height="1200" fill="url(#g)"/>
+<rect x="80" y="120" width="1540" height="960" fill="#262626" stroke="#393939" stroke-width="2"/>
+<line x1="80" y1="184" x2="1620" y2="184" stroke="#393939" stroke-width="2"/>
+<rect x="112" y="143" width="18" height="18" fill="#525252"/>
+<rect x="148" y="143" width="18" height="18" fill="#525252"/>
+<rect x="184" y="143" width="18" height="18" fill="#0f62fe"/>
+<text x="1588" y="162" text-anchor="end" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" fill="#8d8d8d">valentins@github: ~</text>
+<text x="124" y="270" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="44" fill="#78a9ff">$</text><text x="176" y="270" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="44" fill="#f4f4f4">fastfetch</text>
+<g transform="translate(-40 0)">
+<rect x="172" y="478" width="32" height="32" fill="#0f62fe"/>
+<rect x="205" y="478" width="32" height="32" fill="#0f62fe"/>
+<rect x="403" y="478" width="32" height="32" fill="#0f62fe"/>
+<rect x="436" y="478" width="32" height="32" fill="#0f62fe"/>
+<rect x="172" y="511" width="32" height="32" fill="#0f62fe"/>
+<rect x="205" y="511" width="32" height="32" fill="#0f62fe"/>
+<rect x="403" y="511" width="32" height="32" fill="#0f62fe"/>
+<rect x="436" y="511" width="32" height="32" fill="#0f62fe"/>
+<rect x="205" y="544" width="32" height="32" fill="#0f62fe"/>
+<rect x="238" y="544" width="32" height="32" fill="#0f62fe"/>
+<rect x="370" y="544" width="32" height="32" fill="#0f62fe"/>
+<rect x="403" y="544" width="32" height="32" fill="#0f62fe"/>
+<rect x="205" y="577" width="32" height="32" fill="#0f62fe"/>
+<rect x="238" y="577" width="32" height="32" fill="#0f62fe"/>
+<rect x="370" y="577" width="32" height="32" fill="#0f62fe"/>
+<rect x="403" y="577" width="32" height="32" fill="#0f62fe"/>
+<rect x="238" y="610" width="32" height="32" fill="#0f62fe"/>
+<rect x="271" y="610" width="32" height="32" fill="#0f62fe"/>
+<rect x="337" y="610" width="32" height="32" fill="#0f62fe"/>
+<rect x="370" y="610" width="32" height="32" fill="#0f62fe"/>
+<rect x="238" y="643" width="32" height="32" fill="#0f62fe"/>
+<rect x="271" y="643" width="32" height="32" fill="#0f62fe"/>
+<rect x="337" y="643" width="32" height="32" fill="#0f62fe"/>
+<rect x="370" y="643" width="32" height="32" fill="#0f62fe"/>
+<rect x="271" y="676" width="32" height="32" fill="#0f62fe"/>
+<rect x="304" y="676" width="32" height="32" fill="#0f62fe"/>
+<rect x="337" y="676" width="32" height="32" fill="#0f62fe"/>
+<rect x="271" y="709" width="32" height="32" fill="#0f62fe"/>
+<rect x="304" y="709" width="32" height="32" fill="#0f62fe"/>
+<rect x="337" y="709" width="32" height="32" fill="#0f62fe"/>
+<rect x="568" y="478" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="478" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="478" width="32" height="32" fill="#ffffff"/>
+<rect x="667" y="478" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="511" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="511" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="544" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="544" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="577" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="577" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="610" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="610" width="32" height="32" fill="#ffffff"/>
+<rect x="502" y="643" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="643" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="643" width="32" height="32" fill="#ffffff"/>
+<rect x="502" y="676" width="32" height="32" fill="#ffffff"/>
+<rect x="535" y="676" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="676" width="32" height="32" fill="#ffffff"/>
+<rect x="634" y="676" width="32" height="32" fill="#ffffff"/>
+<rect x="535" y="709" width="32" height="32" fill="#ffffff"/>
+<rect x="568" y="709" width="32" height="32" fill="#ffffff"/>
+<rect x="601" y="709" width="32" height="32" fill="#ffffff"/>
+<path d="M172 772H700M172 772v16M205 772v8M238 772v8M271 772v8M304 772v16M337 772v8M370 772v8M403 772v8M436 772v16M469 772v8M502 772v8M535 772v8M568 772v16M601 772v8M634 772v8M667 772v8M700 772v16" stroke="#8d8d8d" stroke-width="2" fill="none"/></g>
+<text x="720" y="383" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="38" font-weight="600" fill="#78a9ff">valentins<tspan fill="#6f6f6f">@</tspan>github</text>
+<line x1="720" y1="406" x2="1500" y2="406" stroke="#525252" stroke-width="3"/>
+<text x="720" y="478" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">Role</text><text x="930" y="478" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">Self-taught developer</text>
+<text x="720" y="544" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">Focus</text><text x="930" y="544" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">Backend systems, APIs</text>
+<text x="720" y="610" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">Lang</text><text x="930" y="610" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">Python, JavaScript</text>
+<text x="720" y="676" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">Stack</text><text x="930" y="676" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">FastAPI, PostgreSQL, Redis</text>
+<text x="720" y="742" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">Infra</text><text x="930" y="742" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">Linux, Docker, self-hosted</text>
+<text x="720" y="808" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">AI</text><text x="930" y="808" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">Local LLMs</text>
+<text x="720" y="874" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">Interests</text><text x="930" y="874" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">Backend architecture, open source</text>
+<text x="720" y="940" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" font-weight="600" fill="#78a9ff">GitHub</text><text x="930" y="940" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="32" fill="#f4f4f4">@Valentins-Jermakovs</text>
+<rect x="720" y="996" width="58" height="22" fill="#0f62fe"/>
+<rect x="786" y="996" width="58" height="22" fill="#78a9ff"/>
+<rect x="852" y="996" width="58" height="22" fill="#d0e2ff"/>
+<rect x="918" y="996" width="58" height="22" fill="#f4f4f4"/>
+<rect x="984" y="996" width="58" height="22" fill="#525252"/>
+<rect x="1050" y="996" width="58" height="22" fill="#393939"/>
+<g transform="translate(1660 120)"><rect width="320" height="222" fill="#ffffff"/><rect x="110" y="38" width="72" height="72" fill="#0f62fe"/><rect x="145" y="56" width="66" height="66" fill="#161616"/><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#161616">Python</text></g>
+<g transform="translate(2004 120)"><rect width="320" height="222" fill="#262626" stroke="#393939" stroke-width="2"/><g fill="none" stroke="#fff" stroke-width="12"><path d="M138 36H112V84H98V96H112V144H138"/><path d="M182 36H208V84H222V96H208V144H182"/></g><rect x="154" y="84" width="12" height="12" fill="#0f62fe"/><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#f4f4f4">JavaScript</text></g>
+<g transform="translate(1660 366)"><rect width="320" height="222" fill="#d0e2ff"/><g fill="none" stroke-width="14"><polyline points="98,44 140,88 98,132" stroke="#78a9ff"/><polyline points="128,44 170,88 128,132" stroke="#4589ff"/><polyline points="158,44 200,88 158,132" stroke="#0f62fe"/></g><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#161616">FastAPI</text></g>
+<g transform="translate(2004 366)"><rect width="320" height="222" fill="#0f62fe"/><g stroke="#fff" stroke-width="8" fill="none"><ellipse cx="160" cy="52" rx="50" ry="18" fill="#d0e2ff"/><path d="M110 52V120A50 18 0 0 0 210 120V52"/><path d="M110 86A50 18 0 0 0 210 86"/></g><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#ffffff">PostgreSQL / Redis</text></g>
+<g transform="translate(1660 612)"><rect width="320" height="222" fill="#262626" stroke="#393939" stroke-width="2"/><rect x="92" y="46" width="40" height="40" fill="#0f62fe"/><rect x="143" y="49" width="34" height="34" fill="none" stroke="#fff" stroke-width="6"/><rect x="188" y="46" width="40" height="40" fill="#0f62fe"/><rect x="95" y="97" width="34" height="34" fill="none" stroke="#fff" stroke-width="6"/><rect x="140" y="94" width="40" height="40" fill="#0f62fe"/><rect x="191" y="97" width="34" height="34" fill="none" stroke="#fff" stroke-width="6"/><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#f4f4f4">Linux / Docker</text></g>
+<g transform="translate(2004 612)"><rect width="320" height="222" fill="#d0e2ff"/><rect x="80" y="46" width="44" height="40" fill="#161616"/><rect x="132" y="46" width="68" height="40" fill="#0f62fe"/><rect x="208" y="46" width="32" height="40" fill="#c6c6c6"/><rect x="80" y="106" width="160" height="8" fill="#0f62fe"/><rect x="80" y="124" width="100" height="8" fill="#0f62fe"/><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#161616">JWT / RBAC</text></g>
+<g transform="translate(1660 858)"><rect width="664" height="222" fill="#0f62fe"/><g stroke="#fff" stroke-width="6" fill="none"><rect x="292" y="36" width="80" height="80"/><path d="M306 18V36M306 116V134"/><path d="M332 18V36M332 116V134"/><path d="M358 18V36M358 116V134"/><path d="M274 50H292M372 50H390"/><path d="M274 76H292M372 76H390"/><path d="M274 102H292M372 102H390"/></g><rect x="318" y="62" width="28" height="28" fill="#fff"/><text x="28" y="196" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="600" fill="#ffffff">Local LLMs</text></g>
 </svg>
